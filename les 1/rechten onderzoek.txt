@@ -1,0 +1,15 @@
+rechten onderzoek
+
+show view
+bij show view laten de opgeslagen querys wanneer ze worden aangeroepen een resultaat zien
+je kan het gebruiken als je wilt dat een query iets doet
+
+grant option
+hiermee kan je bepaalde rollen geven en terug nemen
+je kan het gebruiken als je wilt dat een user een bepaalde rol heeft of als je wilt dat de user een rol niet heeft
+
+create temporary table
+slaat data voor een bepaalde tijd op
+
+lock table
+zet een table op slot zodat andere er niet in kunnen
