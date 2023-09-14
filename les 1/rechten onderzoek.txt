@@ -3,10 +3,12 @@ rechten onderzoek
 show view
 bij show view laten de opgeslagen querys wanneer ze worden aangeroepen een resultaat zien
 je kan het gebruiken als je wilt dat een query iets doet
+een hacker zou hier een command kunnen uit voeren om bijvoorbeeld te weten waar de wachtwoorden worden opgeslagen
 
 grant option
 hiermee kan je bepaalde rollen geven en terug nemen
 je kan het gebruiken als je wilt dat een user een bepaalde rol heeft of als je wilt dat de user een rol niet heeft
+een hacker zou zich zelf hiermee de hoogste rol kunnen geven die er is en daarmee allelei dingen kunnen stelen
 
 create temporary table
 slaat data voor een bepaalde tijd op
