@@ -1,0 +1,10 @@
+mediamarkt hoofdkantoor
+
+Wilhelminakade 161, 3072 AP Rotterdam
+variable = straatnaam, huisnummer, postcode, woonplaats
+waarde straatnaam = char
+waarde huisnummer = numeric
+waarde postcode = char
+waarde woonplaats = char
+
+we geven adresID deze rollen omdat het het belangrijkst van de hele tabel is 
